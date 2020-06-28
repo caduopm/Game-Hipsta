@@ -3,7 +3,7 @@
 
 2D game example developed with JavaScript
 
-<img  src="https://github.com/caduopm/Game-Hipsta/blob/master/imagens/git/telaInicial.PNG"  hegth="230"  width="490">
+<img  src="https://github.com/caduopm/Game-Hipsta/blob/master/imagens/git/telaInicial.PNG"  hegth="350"  width="650">
 
 <img  src="https://github.com/caduopm/Game-Hipsta/blob/master/imagens/git/game.PNG"  hegth="350"  width="650">
 
