@@ -3,10 +3,11 @@
 
 2D game example developed with JavaScript
 
-
+-Inicial Screen
 <img  src="https://github.com/caduopm/PIE/blob/master/ProjetoIntegradoE/app_htoh/static/images/Icons/logo_htoh_green.fw.png"  hegth="230"  width="490">
 
-  
+-Game
+<img  src="https://github.com/caduopm/PIE/blob/master/ProjetoIntegradoE/app_htoh/static/images/Icons/logo_htoh_green.fw.png"  hegth="230"  width="490">
 
 ## Project Setup
 
