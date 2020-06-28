@@ -15,6 +15,3 @@
 - Go to `master` branch
 - Run `code .` to open project on Visual Studio Code
 - On Visual Studio Code, click on the button `Go Live`
-    
-## Fun Part
-- You can play the game on: (https://editor.p5js.org/caduopm/present/PUPI7vbhG)
